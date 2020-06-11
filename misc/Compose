@@ -4,23 +4,23 @@
 
 # Part 1 - Manual definitions
 
-<Multi_key> <0> <0>		: "°"	leftarrow	# DEGREE SIGN
-<Multi_key> <a> <a>		: "ä"	leftarrow	# LATIN SMALL LETTER A WITH DIARESIS
-<Multi_key> <A> <A>		: "Ä"	leftarrow	# LATIN CAPITAL LETTER A WITH DIARESIS
-<Multi_key> <A> <a>		: "Ä"	leftarrow	# LATIN CAPITAL LETTER A WITH DIARESIS
-<Multi_key> <a> <A>		: "Ä"	leftarrow	# LATIN CAPITAL LETTER A WITH DIARESIS
-<Multi_key> <o> <o>		: "ö"	leftarrow	# LATIN SMALL LETTER O WITH DIARESIS
-<Multi_key> <O> <O>		: "Ö"	leftarrow	# LATIN CAPITAL LETTER O WITH DIARESIS
-<Multi_key> <O> <o>		: "Ö"	leftarrow	# LATIN CAPITAL LETTER O WITH DIARESIS
-<Multi_key> <o> <O>		: "Ö"	leftarrow	# LATIN CAPITAL LETTER O WITH DIARESIS
-<Multi_key> <u> <u>		: "ü"	leftarrow	# LATIN SMALL LETTER U WITH DIARESIS
-<Multi_key> <U> <U>		: "Ü"	leftarrow	# LATIN CAPITAL LETTER U WITH DIARESIS
-<Multi_key> <U> <u>		: "Ü"	leftarrow	# LATIN CAPITAL LETTER U WITH DIARESIS
-<Multi_key> <u> <U>		: "Ü"	leftarrow	# LATIN CAPITAL LETTER U WITH DIARESIS
-<Multi_key> <e> <u>		: "€"	leftarrow	# EURO SIGN
-<Multi_key> <e> <U>		: "€"	leftarrow	# EURO SIGN
-<Multi_key> <E> <u>		: "€"	leftarrow	# EURO SIGN
-<Multi_key> <E> <U>		: "€"	leftarrow	# EURO SIGN
+<Multi_key> <0> <0>		: "°"	# DEGREE SIGN
+<Multi_key> <a> <a>		: "ä"	# LATIN SMALL LETTER A WITH DIARESIS
+<Multi_key> <A> <A>		: "Ä"	# LATIN CAPITAL LETTER A WITH DIARESIS
+<Multi_key> <A> <a>		: "Ä"	# LATIN CAPITAL LETTER A WITH DIARESIS
+<Multi_key> <a> <A>		: "Ä"	# LATIN CAPITAL LETTER A WITH DIARESIS
+<Multi_key> <o> <o>		: "ö"	# LATIN SMALL LETTER O WITH DIARESIS
+<Multi_key> <O> <O>		: "Ö"	# LATIN CAPITAL LETTER O WITH DIARESIS
+<Multi_key> <O> <o>		: "Ö"	# LATIN CAPITAL LETTER O WITH DIARESIS
+<Multi_key> <o> <O>		: "Ö"	# LATIN CAPITAL LETTER O WITH DIARESIS
+<Multi_key> <u> <u>		: "ü"	# LATIN SMALL LETTER U WITH DIARESIS
+<Multi_key> <U> <U>		: "Ü"	# LATIN CAPITAL LETTER U WITH DIARESIS
+<Multi_key> <U> <u>		: "Ü"	# LATIN CAPITAL LETTER U WITH DIARESIS
+<Multi_key> <u> <U>		: "Ü"	# LATIN CAPITAL LETTER U WITH DIARESIS
+<Multi_key> <e> <u>		: "€"	# EURO SIGN
+<Multi_key> <e> <U>		: "€"	# EURO SIGN
+<Multi_key> <E> <u>		: "€"	# EURO SIGN
+<Multi_key> <E> <U>		: "€"	# EURO SIGN
 
 # Spacing versions of dead accents
 <dead_tilde> <space>             	: "~"   asciitilde # TILDE
@@ -154,7 +154,6 @@
 <Multi_key> <I> <j>              	: "Ĳ"   U0132 # LATIN CAPITAL LIGATURE IJ
 <Multi_key> <i> <j>              	: "ĳ"   U0133 # LATIN SMALL LIGATURE IJ
 
-<Multi_key> <o> <o>              	: "°"   degree # DEGREE SIGN
 <Multi_key> <asterisk> <0> 		: "°"   degree # DEGREE SIGN
 <Multi_key> <0> <asterisk> 		: "°"   degree # DEGREE SIGN
 
@@ -736,7 +735,6 @@
 <Multi_key> <o> <a>              	: "å"   aring # LATIN SMALL LETTER A WITH RING ABOVE
 <Multi_key> <asterisk> <a> 		: "å"   aring # LATIN SMALL LETTER A WITH RING ABOVE
 <Multi_key> <a> <asterisk> 		: "å"   aring # LATIN SMALL LETTER A WITH RING ABOVE
-<Multi_key> <a> <a> 			: "å"   aring # LATIN SMALL LETTER A WITH RING ABOVE
 <dead_cedilla> <c>               	: "ç"   ccedilla # LATIN SMALL LETTER C WITH CEDILLA
 <Multi_key> <comma> <c>          	: "ç"   ccedilla # LATIN SMALL LETTER C WITH CEDILLA
 <Multi_key> <c> <comma> 		: "ç"   ccedilla # LATIN SMALL LETTER C WITH CEDILLA
@@ -1233,12 +1231,8 @@
 <Multi_key> <minus> <u> 		: "ū"   U016B # LATIN SMALL LETTER U WITH MACRON
 <Multi_key> <u> <minus> 		: "ū"   U016B # LATIN SMALL LETTER U WITH MACRON
 <dead_breve> <U>                 	: "Ŭ"   U016C # LATIN CAPITAL LETTER U WITH BREVE
-<Multi_key> <U> <U>              	: "Ŭ"   U016C # LATIN CAPITAL LETTER U WITH BREVE
-<Multi_key> <u> <U>              	: "Ŭ"   U016C # LATIN CAPITAL LETTER U WITH BREVE
 <Multi_key> <b> <U>              	: "Ŭ"   U016C # LATIN CAPITAL LETTER U WITH BREVE
 <dead_breve> <u>                 	: "ŭ"   U016D # LATIN SMALL LETTER U WITH BREVE
-<Multi_key> <U> <u>              	: "ŭ"   U016D # LATIN SMALL LETTER U WITH BREVE
-<Multi_key> <u> <u>              	: "ŭ"   U016D # LATIN SMALL LETTER U WITH BREVE
 <Multi_key> <b> <u>              	: "ŭ"   U016D # LATIN SMALL LETTER U WITH BREVE
 <dead_abovering> <U>             	: "Ů"   U016E # LATIN CAPITAL LETTER U WITH RING ABOVE
 <Multi_key> <o> <U>              	: "Ů"   U016E # LATIN CAPITAL LETTER U WITH RING ABOVE
