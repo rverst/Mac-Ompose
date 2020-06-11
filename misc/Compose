@@ -610,7 +610,6 @@
 <Multi_key> <o> <A>              	: "Å"   Aring # LATIN CAPITAL LETTER A WITH RING ABOVE
 <Multi_key> <asterisk> <A> 		: "Å"   Aring # LATIN CAPITAL LETTER A WITH RING ABOVE
 <Multi_key> <A> <asterisk> 		: "Å"   Aring # LATIN CAPITAL LETTER A WITH RING ABOVE
-<Multi_key> <A> <A> 			: "Å"   Aring # LATIN CAPITAL LETTER A WITH RING ABOVE
 <dead_cedilla> <C>               	: "Ç"   Ccedilla # LATIN CAPITAL LETTER C WITH CEDILLA
 <Multi_key> <comma> <C>          	: "Ç"   Ccedilla # LATIN CAPITAL LETTER C WITH CEDILLA
 <Multi_key> <C> <comma> 		: "Ç"   Ccedilla # LATIN CAPITAL LETTER C WITH CEDILLA
