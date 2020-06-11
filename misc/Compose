@@ -4,6 +4,24 @@
 
 # Part 1 - Manual definitions
 
+<Multi_key> <0> <0>		: "°"	leftarrow	# DEGREE SIGN
+<Multi_key> <a> <a>		: "ä"	leftarrow	# LATIN SMALL LETTER A WITH DIARESIS
+<Multi_key> <A> <A>		: "Ä"	leftarrow	# LATIN CAPITAL LETTER A WITH DIARESIS
+<Multi_key> <A> <a>		: "Ä"	leftarrow	# LATIN CAPITAL LETTER A WITH DIARESIS
+<Multi_key> <a> <A>		: "Ä"	leftarrow	# LATIN CAPITAL LETTER A WITH DIARESIS
+<Multi_key> <o> <o>		: "ö"	leftarrow	# LATIN SMALL LETTER O WITH DIARESIS
+<Multi_key> <O> <O>		: "Ö"	leftarrow	# LATIN CAPITAL LETTER O WITH DIARESIS
+<Multi_key> <O> <o>		: "Ö"	leftarrow	# LATIN CAPITAL LETTER O WITH DIARESIS
+<Multi_key> <o> <O>		: "Ö"	leftarrow	# LATIN CAPITAL LETTER O WITH DIARESIS
+<Multi_key> <u> <u>		: "ü"	leftarrow	# LATIN SMALL LETTER U WITH DIARESIS
+<Multi_key> <U> <U>		: "Ü"	leftarrow	# LATIN CAPITAL LETTER U WITH DIARESIS
+<Multi_key> <U> <u>		: "Ü"	leftarrow	# LATIN CAPITAL LETTER U WITH DIARESIS
+<Multi_key> <u> <U>		: "Ü"	leftarrow	# LATIN CAPITAL LETTER U WITH DIARESIS
+<Multi_key> <e> <u>		: "€"	leftarrow	# EURO SIGN
+<Multi_key> <e> <U>		: "€"	leftarrow	# EURO SIGN
+<Multi_key> <E> <u>		: "€"	leftarrow	# EURO SIGN
+<Multi_key> <E> <U>		: "€"	leftarrow	# EURO SIGN
+
 # Spacing versions of dead accents
 <dead_tilde> <space>             	: "~"   asciitilde # TILDE
 <dead_tilde> <dead_tilde>        	: "~"   asciitilde # TILDE
