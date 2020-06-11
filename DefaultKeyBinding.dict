@@ -3910,7 +3910,7 @@
 ("insertText:", "\U0150");  /* Compose, EQUALS SIGN, LATIN CAPITAL LETTER O: LATIN CAPITAL LETTER O WITH DOUBLE ACUTE */
 			"\U0050" = 
 
-("insertText:", "\U20BD");  /* Compose, EQUALS SIGN, LATIN CAPITAL LETTER P:  */
+("insertText:", "\U20BD");  /* Compose, EQUALS SIGN, LATIN CAPITAL LETTER P: RUBLE SIGN */
 			"\U0052" = 
 
 ("insertText:", "\U20B9");  /* Compose, EQUALS SIGN, LATIN CAPITAL LETTER R: INDIAN RUPEE SIGN */
@@ -3940,7 +3940,7 @@
 ("insertText:", "\U0151");  /* Compose, EQUALS SIGN, LATIN SMALL LETTER O: LATIN SMALL LETTER O WITH DOUBLE ACUTE */
 			"\U0070" = 
 
-("insertText:", "\U20BD");  /* Compose, EQUALS SIGN, LATIN SMALL LETTER P:  */
+("insertText:", "\U20BD");  /* Compose, EQUALS SIGN, LATIN SMALL LETTER P: RUBLE SIGN */
 			"\U0072" = 
 
 ("insertText:", "\U20B9");  /* Compose, EQUALS SIGN, LATIN SMALL LETTER R: INDIAN RUPEE SIGN */
@@ -3958,7 +3958,7 @@
 ("insertText:", "\U04F3");  /* Compose, EQUALS SIGN, ARABIC LETTER AE: CYRILLIC SMALL LETTER U WITH DOUBLE ACUTE */
 			"\U06DA" = 
 
-("insertText:", "\U20BD");  /* Compose, EQUALS SIGN, ARABIC SMALL HIGH JEEM:  */
+("insertText:", "\U20BD");  /* Compose, EQUALS SIGN, ARABIC SMALL HIGH JEEM: RUBLE SIGN */
 			"\U06E5" = 
 
 ("insertText:", "\U20AC");  /* Compose, EQUALS SIGN, ARABIC SMALL WAW: EURO SIGN */
@@ -3970,7 +3970,7 @@
 ("insertText:", "\U04F2");  /* Compose, EQUALS SIGN, EXTENDED ARABIC-INDIC DIGIT FIVE: CYRILLIC CAPITAL LETTER U WITH DOUBLE ACUTE */
 			"\U06FA" = 
 
-("insertText:", "\U20BD");  /* Compose, EQUALS SIGN, ARABIC LETTER SHEEN WITH DOT BELOW:  */
+("insertText:", "\U20BD");  /* Compose, EQUALS SIGN, ARABIC LETTER SHEEN WITH DOT BELOW: RUBLE SIGN */
 			"\U2395" = 
 
 ("insertText:", "\U2338");  /* Compose, EQUALS SIGN, APL FUNCTIONAL SYMBOL QUAD: APL FUNCTIONAL SYMBOL QUAD EQUAL */
@@ -4317,7 +4317,7 @@
 ("insertText:", "\U1E1E");  /* Compose, LATIN CAPITAL LETTER F, FULL STOP: LATIN CAPITAL LETTER F WITH DOT ABOVE */
 			"\U0055" = 
 
-("insertText:", "\UD83D\UDD95");  /* Compose, LATIN CAPITAL LETTER F, LATIN CAPITAL LETTER U:  */
+("insertText:", "\UD83D\UDD95");  /* Compose, LATIN CAPITAL LETTER F, LATIN CAPITAL LETTER U: REVERSED HAND WITH MIDDLE FINGER EXTENDED */
 			"\U0069" = 
 
 ("insertText:", "\UFB03");  /* Compose, LATIN CAPITAL LETTER F, LATIN SMALL LETTER I: LATIN SMALL LIGATURE FFI */
@@ -4433,7 +4433,7 @@
 				"\U0041" = {
 					"\U0050" = 
 
-("insertText:", "\UD83D\UDD96");  /* Compose, LATIN CAPITAL LETTER L, LATIN CAPITAL LETTER L, LATIN CAPITAL LETTER A, LATIN CAPITAL LETTER P:  */
+("insertText:", "\UD83D\UDD96");  /* Compose, LATIN CAPITAL LETTER L, LATIN CAPITAL LETTER L, LATIN CAPITAL LETTER A, LATIN CAPITAL LETTER P: RAISED HAND WITH PART BETWEEN MIDDLE AND RING FINGERS */
 				};
 			};
 			"\U0056" = 
@@ -4548,7 +4548,7 @@
 ("insertText:", "\U1E56");  /* Compose, LATIN CAPITAL LETTER P, FULL STOP: LATIN CAPITAL LETTER P WITH DOT ABOVE */
 			"\U003D" = 
 
-("insertText:", "\U20BD");  /* Compose, LATIN CAPITAL LETTER P, EQUALS SIGN:  */
+("insertText:", "\U20BD");  /* Compose, LATIN CAPITAL LETTER P, EQUALS SIGN: RUBLE SIGN */
 			"\U0050" = 
 
 ("insertText:", "\U00B6");  /* Compose, LATIN CAPITAL LETTER P, LATIN CAPITAL LETTER P: PILCROW SIGN */
@@ -6738,7 +6738,7 @@
 ("insertText:", "\U1E57");  /* Compose, LATIN SMALL LETTER P, FULL STOP: LATIN SMALL LETTER P WITH DOT ABOVE */
 			"\U003D" = 
 
-("insertText:", "\U20BD");  /* Compose, LATIN SMALL LETTER P, EQUALS SIGN:  */
+("insertText:", "\U20BD");  /* Compose, LATIN SMALL LETTER P, EQUALS SIGN: RUBLE SIGN */
 			"\U006F" = {
 				"\U006F" = 
 
@@ -8396,7 +8396,7 @@
 		"\U06DA" = {
 			"\U003D" = 
 
-("insertText:", "\U20BD");  /* Compose, ARABIC SMALL HIGH JEEM, EQUALS SIGN:  */
+("insertText:", "\U20BD");  /* Compose, ARABIC SMALL HIGH JEEM, EQUALS SIGN: RUBLE SIGN */
 		};
 		"\U06E5" = {
 			"\U003D" = 
@@ -8419,7 +8419,7 @@
 		"\U06FA" = {
 			"\U003D" = 
 
-("insertText:", "\U20BD");  /* Compose, ARABIC LETTER SHEEN WITH DOT BELOW, EQUALS SIGN:  */
+("insertText:", "\U20BD");  /* Compose, ARABIC LETTER SHEEN WITH DOT BELOW, EQUALS SIGN: RUBLE SIGN */
 		};
 		"\U07C1" = {
 			"\U0027" = 
@@ -9080,7 +9080,7 @@
 		"\U08BC" = {
 			"\U0338" = 
 
-("insertText:", "\U2270");  /* Compose, unknown, COMBINING LONG SOLIDUS OVERLAY: NEITHER LESS-THAN NOR EQUAL TO */
+("insertText:", "\U2270");  /* Compose, ARABIC LETTER AFRICAN QAF, COMBINING LONG SOLIDUS OVERLAY: NEITHER LESS-THAN NOR EQUAL TO */
 		};
 		"\U08BE" = {
 			"\U0338" = 
@@ -9100,12 +9100,12 @@
 		"\U08DA" = {
 			"\U0338" = 
 
-("insertText:", "\U2284");  /* Compose, unknown, COMBINING LONG SOLIDUS OVERLAY: NOT A SUBSET OF */
+("insertText:", "\U2284");  /* Compose, ARABIC SMALL HIGH WORD ATH-THALATHA, COMBINING LONG SOLIDUS OVERLAY: NOT A SUBSET OF */
 		};
 		"\U08DB" = {
 			"\U0338" = 
 
-("insertText:", "\U2285");  /* Compose, unknown, COMBINING LONG SOLIDUS OVERLAY: NOT A SUPERSET OF */
+("insertText:", "\U2285");  /* Compose, ARABIC SMALL HIGH WORD AS-SAJDA, COMBINING LONG SOLIDUS OVERLAY: NOT A SUPERSET OF */
 		};
 		"\U093C" = {
 			"\U0915" = 
