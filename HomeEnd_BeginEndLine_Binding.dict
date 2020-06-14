@@ -1,0 +1,6 @@
+{
+   ""  = "moveToBeginningOfLine:";
+   ""  = "moveToEndOfLine:";
+   "$" = "moveToBeginningOfLineAndModifySelection:";
+   "$" = "moveToEndOfLineAndModifySelection:";
+}

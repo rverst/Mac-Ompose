@@ -1,4 +1,9 @@
 {
+   ""  = "moveToBeginningOfLine:";
+   ""  = "moveToEndOfLine:";
+   "$" = "moveToBeginningOfLineAndModifySelection:";
+   "$" = "moveToEndOfLineAndModifySelection:";
+
 	"\UF710" = {
 		"\U0020" = {
 			"\U0020" = 
